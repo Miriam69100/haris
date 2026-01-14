@@ -421,6 +421,19 @@
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
       }
+    },
+    "custom_liquid_C4DfNc": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<section style=\"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; background: #fff; padding: 40px 0; display: flex; flex-direction: column; align-items: center; justify-content: center;\"> \n  \n  <h2 style=\"text-align: center; font-size: 22px; font-weight: 700; color: #333; margin-bottom: 30px; max-width: 90%;\">\n    Pourquoi vos cheveux sentiront la différence ?\n  </h2>\n\n  <div style=\"width: 100%; display: flex; justify-content: center;\">\n    <table style=\"max-width: 800px; width: 95%; border-collapse: separate; border-spacing: 0; font-size: 14px; text-align: center; box-shadow: 0 4px 15px rgba(0,0,0,0.05); border-radius: 12px; overflow: hidden; border: 1px solid #eee;\">\n      <thead>\n        <tr>\n          <th style=\"padding: 16px; background-color: #f8f8f8; border-bottom: 2px solid #e0e0e0; text-align: left; color: #555; width: 40%;\">Comparatif</th>\n          <th style=\"padding: 16px; background-color: #4F6F52; color: white; border-bottom: 2px solid #3E5841; font-weight: 700; width: 30%;\">\n            Notre Soin solide\n          </th>\n          <th style=\"padding: 16px; background-color: #f8f8f8; color: #777; border-bottom: 2px solid #e0e0e0; width: 30%;\">\n            Shampoing classique\n          </th>\n        </tr>\n      </thead>\n      <tbody>\n        <tr>\n          <td style=\"padding: 14px; font-weight: 600; text-align: left; color: #333; border-bottom: 1px solid #eee;\">\n            Chute de cheveux & racines fragilisées\n          </td>\n          <td style=\"padding: 14px; color: #4F6F52; font-weight: 700; border-bottom: 1px solid #eee; background-color: #F3F7F3;\">\n            Cible la chute, renforce les follicules\n          </td>\n          <td style=\"padding: 14px; color: #999; border-bottom: 1px solid #eee;\">\n            Action limitée, nettoyage surtout superficiel\n          </td>\n        </tr>\n\n        <tr>\n          <td style=\"padding: 14px; font-weight: 600; text-align: left; color: #333; border-bottom: 1px solid #eee;\">\n            Densité & volume de la chevelure\n          </td>\n          <td style=\"padding: 14px; color: #4F6F52; font-weight: 700; border-bottom: 1px solid #eee; background-color: #F3F7F3;\">\n            Soutient une masse capillaire plus dense\n          </td>\n          <td style=\"padding: 14px; color: #999; border-bottom: 1px solid #eee;\">\n            Peut alourdir ou laisser les cheveux plats\n          </td>\n        </tr>\n\n        <tr>\n          <td style=\"padding: 14px; font-weight: 600; text-align: left; color: #333; border-bottom: 1px solid #eee;\">\n            Racines grasses & fréquence des lavages\n          </td>\n          <td style=\"padding: 14px; color: #4F6F52; font-weight: 700; border-bottom: 1px solid #eee; background-color: #F3F7F3;\">\n            Aide à réguler le sébum, racines propres plus longtemps\n          </td>\n          <td style=\"padding: 14px; color: #999; border-bottom: 1px solid #eee;\">\n            Peut graisser vite, lavages plus fréquents\n          </td>\n        </tr>\n\n        <tr>\n          <td style=\"padding: 14px; font-weight: 600; text-align: left; color: #333;\">\n            Composition & respect du cuir chevelu\n          </td>\n          <td style=\"padding: 14px; color: #4F6F52; font-weight: 700; background-color: #F3F7F3;\">\n            12 plantes actives, sans sulfate ni silicone\n          </td>\n          <td style=\"padding: 14px; color: #999;\">\n            Tensioactifs parfois agressifs, silicones fréquents\n          </td>\n        </tr>\n      </tbody>\n    </table>\n  </div>\n</section>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -430,6 +443,7 @@
     "slideshow_ADQD9T",
     "before_after_image_bbwf9r",
     "multi_column_Yxw9FE",
-    "featured_product_UnrDQr"
+    "featured_product_UnrDQr",
+    "custom_liquid_C4DfNc"
   ]
 }
