@@ -133,7 +133,7 @@
         "title_xDA7rE": {
           "type": "title",
           "settings": {
-            "heading_tag": "h2"
+            "heading_tag": "h5"
           }
         },
         "badges_jb63Ad": {
@@ -146,6 +146,12 @@
             "show_taxes_notice": false
           }
         },
+        "liquid_yFUYr8": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html lang=\"fr\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Checkmarks – Serenilyfe</title>\n    <style>\n        .checkmark-list {\n            list-style: none;\n            padding: 0;\n            margin: 0;\n            margin-bottom: -5px !important;\n        }\n        .checkmark-item {\n            display: flex;\n            align-items: center;\n            margin-bottom: 10px;\n            font-size: 15px;\n            font-weight: 600;\n            color: #141414;\n            line-height: 1.5;\n        }\n        .checkmark-item::before {\n            content: \"✔\";\n            color: #8A4B2D;\n            font-weight: 700;\n            font-size: 16px;\n            margin-right: 10px;\n        }\n    </style>\n</head>\n<body>\n    <ul class=\"checkmark-list\">\n        <li class=\"checkmark-item\">Formule 100% détaillée : romarin, kératine hydrolysée & biotine</li>\n        <li class=\"checkmark-item\">Cuir chevelu visiblement apaisé dès les premiers lavages</li>\n        <li class=\"checkmark-item\">Nettoyant aux acides aminés, sans sulfates ni parabènes</li>\n        <li class=\"checkmark-item\">Une seule routine : 2 à 3 minutes de massage sous la douche</li>\n    </ul>\n</body>\n</html>"
+          }
+        },
         "rating_Jgrggh": {
           "type": "rating",
           "settings": {
@@ -155,14 +161,6 @@
         "separator_Jw4WBp": {
           "type": "separator",
           "settings": {}
-        },
-        "description_wWxAki": {
-          "type": "description",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "collapse_content": false
-          }
         },
         "variant_picker_PhztiG": {
           "type": "variant_picker",
@@ -200,9 +198,9 @@
         "title_xDA7rE",
         "badges_jb63Ad",
         "price_TYbCWA",
+        "liquid_yFUYr8",
         "rating_Jgrggh",
         "separator_Jw4WBp",
-        "description_wWxAki",
         "variant_picker_PhztiG",
         "quantity_selector_aaHcth",
         "buy_buttons_d48iVA",
