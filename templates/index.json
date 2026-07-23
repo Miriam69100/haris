@@ -126,10 +126,6 @@
     "featured_product_UnrDQr": {
       "type": "featured-product",
       "blocks": {
-        "vendor_eGyAjH": {
-          "type": "vendor",
-          "settings": {}
-        },
         "title_xDA7rE": {
           "type": "title",
           "settings": {
@@ -140,10 +136,10 @@
           "type": "badges",
           "settings": {}
         },
-        "price_TYbCWA": {
-          "type": "price",
+        "liquid_bLi9tt": {
+          "type": "liquid",
           "settings": {
-            "show_taxes_notice": false
+            "liquid": "<div style=\"\n  display: flex;\n  justify-content: flex-start;\n  align-items: center;\n  gap: 8px;\n  flex-wrap: nowrap;\n  font-size: 15px;\n  font-weight: 300;\n  color: #000;\n  line-height: 1.2;\n  text-align: left;\n\">\n  <img \n    src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/4.5-stars-trustpilot_2157d8d9-101e-46a2-a3fe-ac80f2fecf10.png?v=1688082792\" \n    alt=\" Excellent 4.8/5\" \n    style=\"height: 15px; vertical-align: middle;\"\n  >\n  <span>4,8/5 Excellent +1 500 avis vérifiés</span>\n</div>"
           }
         },
         "liquid_yFUYr8": {
@@ -152,15 +148,31 @@
             "liquid": "<!DOCTYPE html>\n<html lang=\"fr\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Checkmarks – Serenilyfe</title>\n    <style>\n        .checkmark-list {\n            list-style: none;\n            padding: 0;\n            margin: 0;\n            margin-bottom: -5px !important;\n        }\n        .checkmark-item {\n            display: flex;\n            align-items: center;\n            margin-bottom: 10px;\n            font-size: 15px;\n            font-weight: 600;\n            color: #141414;\n            line-height: 1.5;\n        }\n        .checkmark-item::before {\n            content: \"✔\";\n            color: #8A4B2D;\n            font-weight: 700;\n            font-size: 16px;\n            margin-right: 10px;\n        }\n    </style>\n</head>\n<body>\n    <ul class=\"checkmark-list\">\n        <li class=\"checkmark-item\">Formule 100% détaillée : romarin, kératine hydrolysée & biotine</li>\n        <li class=\"checkmark-item\">Cuir chevelu visiblement apaisé dès les premiers lavages</li>\n        <li class=\"checkmark-item\">Nettoyant aux acides aminés, sans sulfates ni parabènes</li>\n        <li class=\"checkmark-item\">Une seule routine : 2 à 3 minutes de massage sous la douche</li>\n    </ul>\n</body>\n</html>"
           }
         },
+        "liquid_fNEanR": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block;\n    vertical-align: middle;\n    font-size: 10px;\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px;\n    border-radius: 8px;\n    display: inline-block;\n    text-align: center;\n    margin: 0 auto;\n  }\n\n  .text {\n    display: inline-block;\n    vertical-align: middle;\n    margin-left: 10px;\n    color: #AD0000;\n    font-weight: 500;\n    font-size: 12px;\n    text-align: justify;\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">Plus que 4 articles disponibles à ce prix !</div>\n</div>"
+          }
+        },
+        "image_WUFTy3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Ajouter_un_titre_3_1.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
+        "liquid_LaBFBn": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "Livraison offerte aujourd'hui seulement !"
+          }
+        },
         "rating_Jgrggh": {
           "type": "rating",
           "settings": {
             "show_empty": false
           }
-        },
-        "separator_Jw4WBp": {
-          "type": "separator",
-          "settings": {}
         },
         "variant_picker_PhztiG": {
           "type": "variant_picker",
@@ -194,13 +206,14 @@
         }
       },
       "block_order": [
-        "vendor_eGyAjH",
         "title_xDA7rE",
         "badges_jb63Ad",
-        "price_TYbCWA",
+        "liquid_bLi9tt",
         "liquid_yFUYr8",
+        "liquid_fNEanR",
+        "image_WUFTy3",
+        "liquid_LaBFBn",
         "rating_Jgrggh",
-        "separator_Jw4WBp",
         "variant_picker_PhztiG",
         "quantity_selector_aaHcth",
         "buy_buttons_d48iVA",
