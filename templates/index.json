@@ -167,42 +167,6 @@
           "settings": {
             "liquid": "Livraison offerte aujourd'hui seulement !"
           }
-        },
-        "rating_Jgrggh": {
-          "type": "rating",
-          "settings": {
-            "show_empty": false
-          }
-        },
-        "variant_picker_PhztiG": {
-          "type": "variant_picker",
-          "settings": {
-            "hide_sold_out_variants": false,
-            "stack_blocks": true,
-            "selector_style": "block",
-            "swatch_selector_style": "swatch",
-            "variant_image_options": "",
-            "size_chart_page": ""
-          }
-        },
-        "quantity_selector_aaHcth": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
-        "buy_buttons_d48iVA": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_payment_button": true,
-            "show_gift_card_recipient": true,
-            "atc_button_background": "",
-            "atc_button_text_color": "",
-            "payment_button_background": "",
-            "payment_button_text_color": ""
-          }
-        },
-        "pickup_availability_GfhBEj": {
-          "type": "pickup_availability",
-          "settings": {}
         }
       },
       "block_order": [
@@ -212,12 +176,7 @@
         "liquid_yFUYr8",
         "liquid_fNEanR",
         "image_WUFTy3",
-        "liquid_LaBFBn",
-        "rating_Jgrggh",
-        "variant_picker_PhztiG",
-        "quantity_selector_aaHcth",
-        "buy_buttons_d48iVA",
-        "pickup_availability_GfhBEj"
+        "liquid_LaBFBn"
       ],
       "name": "Featured product",
       "settings": {
