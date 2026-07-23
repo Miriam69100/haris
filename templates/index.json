@@ -9,6 +9,102 @@
  */
 {
   "sections": {
+    "testimonials_gmkehA": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_UJmFij": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Sarah, 39 ans",
+            "title": "",
+            "content": "<p>\"J'ai testé au moins 4 shampoings anti-chute avant celui-ci, aucun n'avait rien changé. J'étais sceptique en commandant Soin Jade, honnêtement je me suis dit \"encore un de plus\". Les 3 premières semaines, rien de spécial. Puis vers la 5e semaine j'ai remarqué que je perdais moins de cheveux dans la douche. Ce n'est pas miraculeux mais c'est la première fois qu'un produit fait vraiment une différence pour moi.\"</p>"
+          }
+        },
+        "testimonial_VaTP9J": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Camille, 34 ans",
+            "title": "",
+            "content": "<p>\"J'ai les cheveux très fins et d'habitude tous les shampoings \"traitants\" me graissent le cuir chevelu en 24h. Celui-ci non. Texture légère, ça mousse bien, et mes cheveux restent propres presque aussi longtemps qu'avant. Petite appréhension au départ à cause de mes expériences passées, mais aucun souci ici.\"</p>"
+          }
+        },
+        "testimonial_xcDdBh": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Lucie, 42 ans",
+            "title": "",
+            "content": "<p>\"J'ai un cuir chevelu hyper sensible, le moindre shampoing \"actif\" me démange en général. J'ai testé Soin Jade avec appréhension à cause du romarin, je pensais que ça piquerait. En fait pas du tout d'irritation, même après plusieurs semaines d'utilisation quotidienne. Le nettoyant sans sulfates fait clairement la différence.\"</p>"
+          }
+        },
+        "testimonial_TC8Mwc": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Nadia, 31 ans",
+            "title": "",
+            "content": "<p>\"Ma chute vient d'un arrêt de pilule, donc je n'étais pas sûre qu'un shampoing puisse faire quoi que ce soit contre une cause hormonale. Je n'attendais pas de miracle. Ce que j'ai vu : mon cuir chevelu est moins irrité, et ma chute a clairement ralenti sur les 2 derniers mois. Je continue en parallèle un suivi avec ma dermato, mais ce shampoing a sa place dans ma routine maintenant.\"</p>"
+          }
+        },
+        "testimonial_V49RKf": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Emma, 37 ans",
+            "title": "",
+            "content": "<p>\"Je l'avoue, j'ai failli demander un remboursement après 3 semaines parce que je ne voyais rien. Le service client m'a rappelé que les premiers signes arrivent en général vers 3-4 semaines, pas avant, et que le vrai bilan se fait à 2 mois. J'ai continué, et à J60 j'ai clairement moins de cheveux dans ma brosse qu'au début. Contente d'avoir attendu.\"</p>"
+          }
+        },
+        "testimonial_AN6kNT": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Julie, 45 ans",
+            "title": "",
+            "content": "<p>\"Après une mauvaise expérience avec le minoxidil (palpitations, plus jamais), je cherchais une alternative sans hormones. Soin Jade est composé de romarin, kératine hydrolysée et biotine, rien d'hormonal. Aucun effet secondaire pour moi, juste un cuir chevelu plus sain et une chute qui a diminué progressivement.\"</p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_UJmFij",
+        "testimonial_VaTP9J",
+        "testimonial_xcDdBh",
+        "testimonial_TC8Mwc",
+        "testimonial_V49RKf",
+        "testimonial_AN6kNT"
+      ],
+      "name": "Testimonials",
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": false,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "",
+        "testimonial_card_text_color": ""
+      }
+    },
     "slideshow": {
       "type": "slideshow",
       "blocks": {
@@ -79,65 +175,6 @@
         "text_color": "",
         "button_background": "",
         "button_text_color": ""
-      }
-    },
-    "multi_column_G3tGJw": {
-      "type": "multi-column",
-      "blocks": {
-        "item_6eADGJ": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_hzyVVw": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_FHLPza": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_6eADGJ",
-        "item_hzyVVw",
-        "item_FHLPza"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
       }
     },
     "slideshow_ADQD9T": {
@@ -278,10 +315,10 @@
     }
   },
   "order": [
+    "testimonials_gmkehA",
     "slideshow",
     "custom_liquid_8HFgjp",
     "impact-text",
-    "multi_column_G3tGJw",
     "slideshow_ADQD9T",
     "featured_product_UnrDQr",
     "custom_liquid_YHQA8P"
