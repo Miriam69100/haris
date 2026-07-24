@@ -39,8 +39,13 @@
         "show_shipping_text": true,
         "show_view_cart_button": true,
         "show_checkout_button": true,
-        "recommendations_title": "Trending this month",
-        "products": [],
+        "recommendations_title": "Completez votre routine pour de meilleurs résultats !",
+        "products": [
+          "huile-concentree-au-romarin-accelere-3x-plus-la-pousse",
+          "e-book-offert-les-secrets-de-pousse-rapide-la-methode-30-jours",
+          "peigne-massant-en-bois-dacacia",
+          "shampoing-soin-jade-retrouvez-votre-volume-capillaire-en-30-jours"
+        ],
         "product_card_background": "#f2f2f2",
         "product_card_text_color": ""
       }
