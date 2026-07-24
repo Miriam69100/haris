@@ -41,9 +41,11 @@ Supported variables
   {%- elsif product.selected_or_first_available_variant.available -%}
     {%- if product.template_suffix contains 'pre-order' -%}
       {%- capture button_content -%}{{ 'product.general.pre_order_button' | t }}{%- endcapture -%}
-    {%- else -%}
-      {%- capture button_content -%}{{ 'product.general.add_to_cart_button' | t }}{%- endcapture -%}
-    {%- endif -%}
+   {%- else -%}
+  {%- capture button_content -%}Commander maintenant{%- endcapture -%}
+{%- endif -%}
+
+
   {%- else -%}
     {%- capture button_content -%}{{ 'product.general.sold_out_button' | t }}{%- endcapture -%}
     {%- assign button_disabled = true -%}
@@ -100,4 +102,31 @@ Supported variables
       {%- endif -%}
     </buy-buttons>
   </div>
-{%- endform -%}
+  {%- endform -%}
+  
+<!-- Logos de paiement -->
+<div class="icon-container">
+  <img class="icon" src="https://cdn.shopify.com/s/files/1/0747/1749/5526/files/Apple_Pay-Logo.wine.png?v=1746126288" alt="Apple Pay">
+  <img class="icon" src="https://cdn.shopify.com/s/files/1/1058/4355/6701/files/Google_Pay_Logo_svg_1.png?v=1773919093" alt="Google Pay">
+  <img class="icon" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/PayPal.svg" alt="PayPal">
+  <img class="icon" src="https://upload.wikimedia.org/wikipedia/commons/0/04/Mastercard-logo.png" alt="Mastercard">
+  <img class="icon" src="https://cdn.shopify.com/s/files/1/1058/4355/6701/files/Visa_Inc.-Logo.wine_1.png?v=1773919095" alt="Visa">
+  <img class="icon" src="https://cdn.shopify.com/s/files/1/1058/4355/6701/files/American_Express_logo__2018__svg_1.png?v=1773919094" alt="American Express">
+</div>
+
+<style>
+  .icon-container {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    flex-wrap: wrap;
+  }
+
+  .icon {
+    width: 40px;
+    height: auto;
+  }
+</style>
+
