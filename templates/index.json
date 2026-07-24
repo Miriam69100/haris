@@ -123,6 +123,19 @@
         "background_gradient": ""
       }
     },
+    "custom_html_LaePVR": {
+      "type": "custom-html",
+      "name": "Custom HTML",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "html": "<p center>Write or copy/paste H styleTML code</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "multi_column_VkBfh6": {
       "type": "multi-column",
       "blocks": {
@@ -327,6 +340,7 @@
     "custom_liquid_8HFgjp",
     "impact-text",
     "slideshow_ADQD9T",
+    "custom_html_LaePVR",
     "multi_column_VkBfh6",
     "featured_product_UnrDQr",
     "custom_liquid_YHQA8P"
