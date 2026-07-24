@@ -134,7 +134,7 @@
             "rating": 5,
             "author": "Sarah, 39 ans",
             "title": "",
-            "content": "<p>\"J'ai testé au moins 4 shampoings anti-chute avant celui-ci, aucun n'avait rien changé. J'étais sceptique en commandant Soin Jade, honnêtement je me suis dit \"encore un de plus\". Les 3 premières semaines, rien de spécial. Puis vers la 5e semaine j'ai remarqué que je perdais moins de cheveux dans la douche. Ce n'est pas miraculeux mais c'est la première fois qu'un produit fait vraiment une différence pour moi.\"</p>"
+            "content": "<p>\"J'ai testé au moins 4 shampoings anti-chute avant celui-ci, aucun n'avait rien changé. J'étais sceptique en commandant Soin Jade, honnêtement je me suis dit \"encore un de plus\". Les 3 premières semaines, rien de spécial. Puis vers la 5e semaine j'ai remarqué que je perdais moins de cheveux dans la douche. Ce n'est pas miraculeux mais c'est la première fois qu'un produit fait vraiment une différence pour moi.\" -  Sarah, 39 ans</p>"
           }
         },
         "testimonial_VaTP9J": {
@@ -217,6 +217,110 @@
         "heading_gradient": "",
         "testimonial_card_background": "",
         "testimonial_card_text_color": ""
+      }
+    },
+    "multi_column_VkBfh6": {
+      "type": "multi-column",
+      "blocks": {
+        "item_BjVpQ3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/4.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "<p>\"J'ai testé au moins 4 shampoings anti-chute avant celui-ci, aucun n'avait rien changé. J'étais sceptique en commandant Soin Jade, honnêtement je me suis dit \"encore un de plus\". Les 3 premières semaines, rien de spécial. Puis vers la 5e semaine j'ai remarqué que je perdais moins de cheveux dans la douche. Ce n'est pas miraculeux mais c'est la première fois qu'un produit fait vraiment une différence pour moi.\" </p><p>- Sarah, 39 ans</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_zMgJRe": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/1.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "<p>\"J'ai les cheveux très fins et d'habitude tous les shampoings \"traitants\" me graissent le cuir chevelu en 24h. Celui-ci non. Texture légère, ça mousse bien, et mes cheveux restent propres presque aussi longtemps qu'avant. Petite appréhension au départ à cause de mes expériences passées, mais aucun souci ici.\" </p><p>- Camille, 34 ans</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_6t4jrE": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/6.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "<p>\"J'ai un cuir chevelu hyper sensible, le moindre shampoing \"actif\" me démange en général. J'ai testé Soin Jade avec appréhension à cause du romarin, je pensais que ça piquerait. En fait pas du tout d'irritation, même après plusieurs semaines d'utilisation quotidienne. Le nettoyant sans sulfates fait clairement la différence.\"</p><p> - Lucie, 42 ans</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_UFjciU": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/5.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "<p>\"Ma chute vient d'un arrêt de pilule, donc je n'étais pas sûre qu'un shampoing puisse faire quoi que ce soit contre une cause hormonale. Je n'attendais pas de miracle. Ce que j'ai vu : mon cuir chevelu est moins irrité, et ma chute a clairement ralenti sur les 2 derniers mois. Je continue en parallèle un suivi avec ma dermato, mais ce shampoing a sa place dans ma routine maintenant.\"</p><p>-  Nadia, 31 ans</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_DfzYyF": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/2.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "<p>\"Je l'avoue, j'ai failli demander un remboursement après 3 semaines parce que je ne voyais rien. Le service client m'a rappelé que les premiers signes arrivent en général vers 3-4 semaines, pas avant, et que le vrai bilan se fait à 2 mois. J'ai continué, et à J60 j'ai clairement moins de cheveux dans ma brosse qu'au début. Contente d'avoir attendu.\"</p><p>- Emma, 37 ans</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_7rXRhz": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/3.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "<p>\"Après une mauvaise expérience avec le minoxidil (palpitations, plus jamais), je cherchais une alternative sans hormones. Soin Jade est composé de romarin, kératine hydrolysée et biotine, rien d'hormonal. Aucun effet secondaire pour moi, juste un cuir chevelu plus sain et une chute qui a diminué progressivement.\"</p><p>-  Julie, 45 ans</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_BjVpQ3",
+        "item_zMgJRe",
+        "item_6t4jrE",
+        "item_UFjciU",
+        "item_DfzYyF",
+        "item_7rXRhz"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "featured_product_UnrDQr": {
@@ -320,6 +424,7 @@
     "impact-text",
     "slideshow_ADQD9T",
     "testimonials_gmkehA",
+    "multi_column_VkBfh6",
     "featured_product_UnrDQr",
     "custom_liquid_YHQA8P"
   ]
