@@ -279,6 +279,12 @@
             "max_width": 500
           }
         },
+        "rapi_bundle_rapi_bundle_zChfyj": {
+          "type": "shopify://apps/rapi-bundle/blocks/rapi-bundle/99617c17-a32b-4e70-a883-7a155610d032",
+          "settings": {
+            "product": "{{section.settings.product}}"
+          }
+        },
         "liquid_LaBFBn": {
           "type": "liquid",
           "settings": {
@@ -299,6 +305,7 @@
         "liquid_yFUYr8",
         "liquid_fNEanR",
         "image_WUFTy3",
+        "rapi_bundle_rapi_bundle_zChfyj",
         "liquid_LaBFBn",
         "liquid_Ba7dCN"
       ],
