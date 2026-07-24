@@ -40,7 +40,6 @@
     },
     "header": {
       "type": "header",
-      "disabled": true,
       "settings": {
         "enable_sticky": false,
         "hide_on_scroll": false,
@@ -63,10 +62,24 @@
         "background_opacity": 100,
         "background_blur_radius": 0
       }
+    },
+    "custom_liquid_xcTJgr": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<p style=\"text-align: center\">Write or copy/paste Liquid code</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
     "announcement-bar",
-    "header"
+    "header",
+    "custom_liquid_xcTJgr"
   ]
 }
