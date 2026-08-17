@@ -136,33 +136,6 @@
         "text_color": ""
       }
     },
-    "before_after_image_QkjpEm": {
-      "type": "before-after-image",
-      "name": "Before/after image",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "before_image": "shopify://shop_images/Design_sans_titre_16.png",
-        "before_image_mobile": "shopify://shop_images/Design_sans_titre_17.png",
-        "after_image": "shopify://shop_images/Design_sans_titre_18.png",
-        "after_image_mobile": "shopify://shop_images/Design_sans_titre_18_be226830-2fdf-4cd4-be59-d633ea0ac5a5.png",
-        "expand_image": false,
-        "text_position": "start",
-        "before_after_text_position": "top",
-        "before_text": "Avant",
-        "after_text": "Après",
-        "drag_initial_position": 50,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "before_text_color": "#ffffff",
-        "after_text_color": "#ffffff",
-        "drag_cursor_background": "#ffffff",
-        "drag_cursor_color": "#000000"
-      }
-    },
     "multi_column_VkBfh6": {
       "type": "multi-column",
       "blocks": {
@@ -265,6 +238,33 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
+      }
+    },
+    "before_after_image_QkjpEm": {
+      "type": "before-after-image",
+      "name": "Before/after image",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "before_image": "shopify://shop_images/Design_sans_titre_16.png",
+        "before_image_mobile": "shopify://shop_images/Design_sans_titre_17.png",
+        "after_image": "shopify://shop_images/Design_sans_titre_18.png",
+        "after_image_mobile": "shopify://shop_images/Design_sans_titre_18_be226830-2fdf-4cd4-be59-d633ea0ac5a5.png",
+        "expand_image": false,
+        "text_position": "start",
+        "before_after_text_position": "top",
+        "before_text": "Avant",
+        "after_text": "Après",
+        "drag_initial_position": 50,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "before_text_color": "#ffffff",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
       }
     },
     "featured_product_UnrDQr": {
@@ -462,8 +462,8 @@
     "impact-text",
     "slideshow_ADQD9T",
     "custom_liquid_WcQMFX",
-    "before_after_image_QkjpEm",
     "multi_column_VkBfh6",
+    "before_after_image_QkjpEm",
     "featured_product_UnrDQr",
     "custom_liquid_pT6REw",
     "custom_liquid_YHQA8P",
