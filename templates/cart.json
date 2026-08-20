@@ -19,10 +19,6 @@
             "show_shipping_text": true
           }
         },
-        "cart_note": {
-          "type": "cart_note",
-          "settings": {}
-        },
         "checkout_button": {
           "type": "checkout_button",
           "settings": {}
@@ -30,7 +26,6 @@
       },
       "block_order": [
         "totals",
-        "cart_note",
         "checkout_button"
       ],
       "settings": {
