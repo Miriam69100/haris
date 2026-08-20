@@ -97,10 +97,24 @@
         "background_opacity": 100,
         "background_blur_radius": 0
       }
+    },
+    "custom_liquid_8G79gG": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": ".",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
     "announcement-bar",
-    "header"
+    "header",
+    "custom_liquid_8G79gG"
   ]
 }
