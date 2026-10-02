@@ -17,7 +17,7 @@
     "block_shadow_vertical_offset": 18,
     "background": "#FFFFFF",
     "text_color": "#1a1a1a",
-    "header_background": "#f0f0f0",
+    "header_background": "#FFFFFF",
     "header_text_color": "#1a1a1a",
     "footer_background": "#ffffff",
     "footer_text_color": "#1a1a1a",
@@ -38,14 +38,7 @@
     "cart_icon": "shopping_basket",
     "checkout_accent_color": "#f0c417",
     "checkout_button_color": "#1a1a1a",
-    "content_for_index": [],
-    "blocks": {
-      "9696655121035291526": {
-        "type": "shopify://apps/rapi-bundle/blocks/app-embed/99617c17-a32b-4e70-a883-7a155610d032",
-        "disabled": false,
-        "settings": {}
-      }
-    }
+    "content_for_index": []
   },
   "presets": {
     "Sound": {
