@@ -243,6 +243,14 @@
             "liquid": ""
           }
         },
+        "image_WUFTy3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Ajouter_un_titre_3_1.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
         "liquid_fNEanR": {
           "type": "liquid",
           "settings": {
@@ -253,13 +261,6 @@
           "type": "liquid",
           "settings": {
             "liquid": "<div class=\"product-viewers-luxury\"> \n  <div class=\"viewers-icon-luxury\"> \n    <span class=\"viewer-dot-luxury\"></span> \n    <span class=\"viewer-dot-luxury\"></span> \n    <span class=\"viewer-dot-luxury\"></span> \n  </div> \n \n  <span class=\"viewers-text-luxury\"> \n    <span class=\"viewers-count-luxury\" id=\"viewer-count-luxury-2024\">57</span> \n    personnes consultent ce produit \n  </span> \n</div> \n \n<style> \n.product-viewers-luxury { \n  width: 100%; \n  box-sizing: border-box; \n  display: flex; \n  align-items: center; \n  justify-content: center; \n  gap: 14px; \n  padding: 10px 16px; \n  margin: 8px 0; \n  background: #f0faf3; \n  border: 1px solid #b9dfc2; \n  border-radius: 9px; \n  color: #347a48; \n  font-family: inherit; \n  font-size: 14px; \n  font-weight: 500; \n  line-height: 1; \n} \n \n.viewers-icon-luxury { \n  display: flex; \n  align-items: center; \n  justify-content: center; \n  gap: 3px; \n  width: 52px; \n  height: 19px; \n  padding: 0 7px; \n  box-sizing: border-box; \n  background: #ffffff; \n  border: 1px solid #b9dfc2; \n  border-radius: 999px; \n} \n \n.viewer-dot-luxury { \n  width: 6px; \n  height: 6px; \n  border-radius: 50%; \n  background: #69b87c; \n  display: block; \n  animation: viewerPulse 1.2s infinite ease-in-out; \n} \n \n.viewer-dot-luxury:nth-child(1) { \n  animation-delay: 0s; \n} \n \n.viewer-dot-luxury:nth-child(2) { \n  animation-delay: 0.2s; \n} \n \n.viewer-dot-luxury:nth-child(3) { \n  animation-delay: 0.4s; \n} \n \n@keyframes viewerPulse { \n  0%, 60%, 100% { \n    transform: scale(1); \n    opacity: 0.45; \n  } \n \n  30% { \n    transform: scale(1.35); \n    opacity: 1; \n  } \n} \n \n.viewers-text-luxury { \n  display: flex; \n  align-items: center; \n  gap: 5px; \n  white-space: nowrap; \n} \n \n.viewers-count-luxury { \n  font-weight: 700; \n  color: #347a48; \n  transition: opacity 0.25s ease; \n} \n \n@media (max-width: 480px) { \n  .product-viewers-luxury { \n    gap: 11px; \n    padding: 9px 10px; \n    font-size: 13px; \n  } \n \n  .viewers-icon-luxury { \n    width: 49px; \n    height: 18px; \n  } \n} \n</style>\n\n<script>\n(function() {\n  const viewer = document.getElementById(\"viewer-count-luxury-2024\");\n\n  if (!viewer) return;\n\n  let currentCount = 77;\n\n  // Nombre minimum et maximum de visiteurs\n  const MIN_VIEWERS = 65;\n  const MAX_VIEWERS = 120;\n\n  function updateViewers() {\n    // Variation légère : -3 à +5 personnes\n    const variation = Math.floor(Math.random() * 9) - 3;\n\n    let newCount = currentCount + variation;\n\n    // Empêche de sortir de la plage\n    if (newCount < MIN_VIEWERS) newCount = MIN_VIEWERS;\n    if (newCount > MAX_VIEWERS) newCount = MAX_VIEWERS;\n\n    currentCount = newCount;\n\n    // Petit effet de transition\n    viewer.style.opacity = \"0\";\n\n    setTimeout(() => {\n      viewer.textContent = currentCount;\n      viewer.style.opacity = \"1\";\n    }, 250);\n  }\n\n  // Change toutes les 8 à 15 secondes\n  function scheduleUpdate() {\n    const delay = Math.floor(Math.random() * 7000) + 8000;\n\n    setTimeout(() => {\n      updateViewers();\n      scheduleUpdate();\n    }, delay);\n  }\n\n  scheduleUpdate();\n})();\n</script>"
-          }
-        },
-        "image_WUFTy3": {
-          "type": "image",
-          "settings": {
-            "alignment": "center",
-            "max_width": 500
           }
         },
         "buy_buttons_VHN8jy": {
@@ -292,9 +293,9 @@
         "liquid_bLi9tt",
         "liquid_yFUYr8",
         "liquid_7pQMHG",
+        "image_WUFTy3",
         "liquid_fNEanR",
         "liquid_4pnRnW",
-        "image_WUFTy3",
         "buy_buttons_VHN8jy",
         "liquid_LaBFBn",
         "liquid_Ba7dCN"
