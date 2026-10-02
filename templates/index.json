@@ -15,7 +15,7 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Sans_titre_2048_x_1800_px_4.png",
+            "image": "shopify://shop_images/Retrouvez_du_volume_en_30_jours.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -87,7 +87,7 @@
         "image_kMir8C": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Mettez_vos_formes_en_valeur_800_x_600_px_23.png",
+            "image": "shopify://shop_images/Mettez_vos_formes_en_valeur_800_x_600_px_900_x_1500_px.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -142,7 +142,6 @@
         "item_BjVpQ3": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/4.png",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -155,7 +154,6 @@
         "item_zMgJRe": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/1.png",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -168,7 +166,6 @@
         "item_6t4jrE": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Design_sans_titre_19.png",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -181,7 +178,6 @@
         "item_UFjciU": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/5.png",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -194,7 +190,6 @@
         "item_DfzYyF": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/2.png",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -207,7 +202,6 @@
         "item_7rXRhz": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/3.png",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -248,10 +242,6 @@
         "subheading": "",
         "title": "",
         "content": "",
-        "before_image": "shopify://shop_images/Design_sans_titre_16.png",
-        "before_image_mobile": "shopify://shop_images/Design_sans_titre_17.png",
-        "after_image": "shopify://shop_images/Design_sans_titre_18.png",
-        "after_image_mobile": "shopify://shop_images/Design_sans_titre_18_be226830-2fdf-4cd4-be59-d633ea0ac5a5.png",
         "expand_image": false,
         "text_position": "start",
         "before_after_text_position": "top",
@@ -301,15 +291,8 @@
         "image_WUFTy3": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Ajouter_un_titre_3_1.png",
             "alignment": "center",
             "max_width": 500
-          }
-        },
-        "rapi_bundle_rapi_bundle_zChfyj": {
-          "type": "shopify://apps/rapi-bundle/blocks/rapi-bundle/99617c17-a32b-4e70-a883-7a155610d032",
-          "settings": {
-            "product": "{{section.settings.product}}"
           }
         },
         "buy_buttons_VHN8jy": {
@@ -343,7 +326,6 @@
         "liquid_yFUYr8",
         "liquid_fNEanR",
         "image_WUFTy3",
-        "rapi_bundle_rapi_bundle_zChfyj",
         "buy_buttons_VHN8jy",
         "liquid_LaBFBn",
         "liquid_Ba7dCN"
@@ -395,19 +377,6 @@
     },
     "1784900737ac33fc04": {
       "type": "apps",
-      "blocks": {
-        "judge_me_reviews_review_widget_homepage_iDEz4B": {
-          "type": "shopify://apps/judge-me-reviews/blocks/review_widget_homepage/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "product": "shampoing-soin-jade-retrouvez-votre-volume-capillaire-en-30-jours",
-            "review_data": "real_data",
-            "max_width": 1200
-          }
-        }
-      },
-      "block_order": [
-        "judge_me_reviews_review_widget_homepage_iDEz4B"
-      ],
       "disabled": true,
       "settings": {
         "full_width": true,
@@ -433,19 +402,6 @@
     },
     "178490405450e40ece": {
       "type": "apps",
-      "blocks": {
-        "judge_me_reviews_review_widget_homepage_qQL7c7": {
-          "type": "shopify://apps/judge-me-reviews/blocks/review_widget_homepage/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "product": "shampoing-soin-jade-retrouvez-votre-volume-capillaire-en-30-jours",
-            "review_data": "real_data",
-            "max_width": 1200
-          }
-        }
-      },
-      "block_order": [
-        "judge_me_reviews_review_widget_homepage_qQL7c7"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
