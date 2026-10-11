@@ -139,19 +139,6 @@
     "multi_column_VkBfh6": {
       "type": "multi-column",
       "blocks": {
-        "item_BjVpQ3": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Eclat_naturel_et_huile_aux_plantes_1.png",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "<p>« J’ai grandi en <strong>Corée</strong>, où prendre soin de son <strong>cuir chevelu fait partie des soins de la peau</strong>. Quand je suis arrivée en <strong>France</strong>, je n’ai rien trouvé qui le traitait de la même manière. <strong>Solaria Glow</strong> est le premier produit qui suit réellement <strong>ce même principe</strong>. Ma mère l’aurait approuvé. »</p><p><strong>- Yuna, 39 ans</strong></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_zMgJRe": {
           "type": "item",
           "settings": {
@@ -160,6 +147,19 @@
             "title": "",
             "heading_tag": "h4",
             "content": "<p>« <strong>Je me suis brûlé le cuir chevelu deux fois</strong> avec de l’huile de romarin faite maison et j’ai pensé que j’avais simplement la peau trop sensible. Dès la <strong>première application de Solaria Glow : rien</strong>. <strong>Pas de brûlure, pas de démangeaisons. </strong>Ce n’était jamais ma peau. <strong>C’était le dosage. </strong>Faites vos recherches et <strong>essayez-la.</strong> »</p><p><strong>— Annique, 41 ans</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_BjVpQ3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Eclat_naturel_et_huile_aux_plantes_1.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "<p>« J’ai grandi en <strong>Corée</strong>, où prendre soin de son <strong>cuir chevelu fait partie des soins de la peau</strong>. Quand je suis arrivée en <strong>France</strong>, je n’ai rien trouvé qui le traitait de la même manière. <strong>Solaria Glow</strong> est le premier produit qui suit réellement <strong>ce même principe</strong>. Ma mère l’aurait approuvé. »</p><p><strong>- Yuna, 39 ans</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -193,8 +193,8 @@
         }
       },
       "block_order": [
-        "item_BjVpQ3",
         "item_zMgJRe",
+        "item_BjVpQ3",
         "item_6t4jrE",
         "item_UFjciU"
       ],
