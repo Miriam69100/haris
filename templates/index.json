@@ -272,6 +272,12 @@
             "payment_button_text_color": ""
           }
         },
+        "rapid_bundle_rapi_bundle_nzVFxc": {
+          "type": "shopify://apps/rapid-bundle/blocks/rapi-bundle/99617c17-a32b-4e70-a883-7a155610d032",
+          "settings": {
+            "product": "{{section.settings.product}}"
+          }
+        },
         "image_WUFTy3": {
           "type": "image",
           "settings": {
@@ -297,6 +303,7 @@
         "liquid_4pnRnW",
         "liquid_LaBFBn",
         "buy_buttons_VHN8jy",
+        "rapid_bundle_rapi_bundle_nzVFxc",
         "image_WUFTy3",
         "liquid_Ba7dCN"
       ],
