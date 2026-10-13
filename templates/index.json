@@ -243,6 +243,14 @@
             "liquid": ""
           }
         },
+        "image_WUFTy3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Ajouter_un_titre_3_1.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
         "liquid_fNEanR": {
           "type": "liquid",
           "settings": {
@@ -261,6 +269,12 @@
             "liquid": "Livraison offerte aujourd'hui seulement !"
           }
         },
+        "rapid_bundle_rapi_bundle_nzVFxc": {
+          "type": "shopify://apps/rapid-bundle/blocks/rapi-bundle/99617c17-a32b-4e70-a883-7a155610d032",
+          "settings": {
+            "product": "{{section.settings.product}}"
+          }
+        },
         "buy_buttons_VHN8jy": {
           "type": "buy_buttons",
           "settings": {
@@ -270,20 +284,6 @@
             "atc_button_text_color": "",
             "payment_button_background": "",
             "payment_button_text_color": ""
-          }
-        },
-        "rapid_bundle_rapi_bundle_nzVFxc": {
-          "type": "shopify://apps/rapid-bundle/blocks/rapi-bundle/99617c17-a32b-4e70-a883-7a155610d032",
-          "settings": {
-            "product": "{{section.settings.product}}"
-          }
-        },
-        "image_WUFTy3": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Ajouter_un_titre_3_1.png",
-            "alignment": "center",
-            "max_width": 500
           }
         },
         "liquid_Ba7dCN": {
@@ -299,12 +299,12 @@
         "liquid_bLi9tt",
         "liquid_yFUYr8",
         "liquid_7pQMHG",
+        "image_WUFTy3",
         "liquid_fNEanR",
         "liquid_4pnRnW",
         "liquid_LaBFBn",
-        "buy_buttons_VHN8jy",
         "rapid_bundle_rapi_bundle_nzVFxc",
-        "image_WUFTy3",
+        "buy_buttons_VHN8jy",
         "liquid_Ba7dCN"
       ],
       "name": "Featured product",
